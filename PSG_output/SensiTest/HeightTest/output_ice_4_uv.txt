@@ -1,0 +1,20 @@
+# ------------------------------------------------------------------------
+# Radiance spectrum
+# NASA-GSFC Planetary Spectrum Generator (PSG) (Villanueva et al. 2018, 2022)
+# Synthesized on Tue Jan 23 20:31:00 2024
+# Doppler velocities [km/s] (vobs,vrot+vorb,vwidth,vrfl,vstr): 0.00000,0.00000,0.00000,-0.00000,0.00000
+# ------------------------------------------------------------------------
+# Spectra synthesized with the Planetary and Universal Model of Atmospheric Scattering (PUMAS, Villanueva et al. 2018, 2022)
+# Muliple scattering method employing PSGDORT, NMAX:1 / LMAX:41 / gMAX:0.02
+# ------------------------------------------------------------------------
+# Spectral unit: Wavelength [um]
+# Radiance unit: I/F [apparent albedo]
+# Wave/freq Total Noise Stellar Earth
+2.000000000e-01  2.1457394e-03  6.41602e-01  5.51360e-02  2.14574e-03
+2.285714286e-01  5.4223593e-04  9.60792e-02  5.51360e-02  5.42236e-04
+2.612244898e-01  1.7760751e-04  2.96580e-02  5.51360e-02  1.77608e-04
+2.985422741e-01  6.3266808e-04  1.03972e-02  5.51360e-02  6.32668e-04
+3.411911703e-01  1.0430696e-01  9.93631e-03  5.51360e-02  1.04307e-01
+3.899327661e-01  1.0812569e-01  6.99194e-03  5.51360e-02  1.08126e-01
+4.456374470e-01  9.9229166e-02  4.87283e-03  5.51360e-02  9.92292e-02
+5.092999394e-01  8.7234373e-02  3.53412e-03  5.51360e-02  8.72344e-02

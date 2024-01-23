@@ -1,0 +1,10 @@
+# ERROR | PUMAS | Invalid spectral range, please verify and update the values.
+# ------------------------------------------------------------------------
+# Radiance spectrum
+# NASA-GSFC Planetary Spectrum Generator (PSG) (Villanueva et al. 2018, 2022)
+# Synthesized on Tue Jan 23 20:30:58 2024
+# Doppler velocities [km/s] (vobs,vrot+vorb,vwidth,vrfl,vstr): 0.00000,0.00000,0.00000,-0.00000,0.00000
+# Spectral unit: Wavelength [um]
+# Radiance unit: I/F [apparent albedo]
+# Wave/freq Total Noise Stellar Object Reflected Thermal
+5.150000000e-01  8.4830134e-02         -nan  5.51360e-02  8.48301e-02  8.48301e-02  1.54936e-34
